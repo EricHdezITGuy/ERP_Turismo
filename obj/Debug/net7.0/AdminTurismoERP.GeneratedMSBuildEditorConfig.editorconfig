@@ -1,0 +1,225 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AdminTurismoERP
+build_property.RootNamespace = AdminTurismoERP
+build_property.ProjectDir = /Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Capacidad/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FwYWNpZGFkL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Capacidad/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FwYWNpZGFkL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Capacidad/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FwYWNpZGFkL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Capacidad/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FwYWNpZGFkL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Capacidad/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FwYWNpZGFkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Descuento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVzY3VlbnRvL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Descuento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVzY3VlbnRvL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Descuento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVzY3VlbnRvL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Descuento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVzY3VlbnRvL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Descuento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVzY3VlbnRvL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/EstadosReserva/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXN0YWRvc1Jlc2VydmEvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/EstadosReserva/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXN0YWRvc1Jlc2VydmEvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/EstadosReserva/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXN0YWRvc1Jlc2VydmEvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/EstadosReserva/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXN0YWRvc1Jlc2VydmEvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/EstadosReserva/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXN0YWRvc1Jlc2VydmEvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Guia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR3VpYS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Guia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR3VpYS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Guia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR3VpYS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Guia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR3VpYS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Guia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR3VpYS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Reserva/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Reserva/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Reserva/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Reserva/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Reserva/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/RolesUsuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sZXNVc3VhcmlvL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/RolesUsuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sZXNVc3VhcmlvL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/RolesUsuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sZXNVc3VhcmlvL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/RolesUsuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sZXNVc3VhcmlvL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/RolesUsuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sZXNVc3VhcmlvL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Tour/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG91ci9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Tour/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG91ci9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Tour/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG91ci9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Tour/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG91ci9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Tour/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG91ci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/insertfx/Documents/Dev Projects/C_Sharp_Projects/ProyectoFinalAplicaciones/AdminTurismoERP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1mcttf3aoj
